@@ -1,16 +1,10 @@
-# translate
+# 多言語翻訳 Flutter アプリ
 
-A new Flutter project.
+このFlutterアプリは、1つの言語から、最大8言語にテキストを簡単に翻訳できるアプリです。
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# 想定
 
-A few resources to get you started if this is your first Flutter project:
+本Flutterアプリは、Flutterの多言語対応に必要ばARBファイル生成時に翻訳する時に使うことを想定しています。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+また、Webでビルドすることを想定しています。
